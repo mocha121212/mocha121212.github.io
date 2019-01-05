@@ -6,12 +6,13 @@ html,body {
  * Header
  */
 .header {
-    padding: 50px 20px 40px;
+    padding: 600px 20px 40px;
     background-color: #49413d;
 }
 
 .header-container {
     max-width: 700px;
+    min-height: 100px;
     margin: 0px auto;
 }
 
