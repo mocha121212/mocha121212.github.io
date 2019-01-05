@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Test Page"
-date:   2012-01-01 11:12:32
-categories: Test0
----
-
-
-이것은 Test 페이지입니다.
