@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "HTML"
+title:  "Semantic Tag"
 date:   2019-01-06 11:12:32
 categories: HTML
 ---
-
-
-이것은 HTML 페이지입니다~~
+<header>
+  <h3>Semantic Tag</h3>  
+</header>
+<p>화면에 표시되는 정보를  header, footer, nav 등으로 명확하게 표시해주는 것. </p>
