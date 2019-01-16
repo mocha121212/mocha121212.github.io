@@ -7,4 +7,4 @@ categories: HTML
 <p>sematic tag란?<br>
 화면에 표시되는 정보를  header, footer, nav 등으로 명확하게 표시해주는 것. </p>
 
-<p>참고 사이트 : <a href="https://opentutorials.org/course/1058"></p>
+<p>참고 사이트 :<a href="https://opentutorials.org/course/1058">https://opentutorials.org/course/1058</a></p>
